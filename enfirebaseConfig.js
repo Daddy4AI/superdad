@@ -10,7 +10,6 @@ export const firebaseConfig = {
   messagingSenderId: "606843485334",
   appId: "1:606843485334:web:4d4e05c1ddcb40beb516b7"
 };
-};
 
 // 初始化 Firebase
 const app = initializeApp(firebaseConfig);
